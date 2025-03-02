@@ -6,7 +6,7 @@ Thông tin:
   - Nguyễn Khải – 20025651
   - Nguyễn Văn Thành - 22724071
   - Lê Hữu Hưng – 22645671
-- Git repository: https://github.com/KhaiNguy3n/ptud\_ExpenseTracker
+- Git repository: https://github.com/KhaiNguy3n/ptud_ExpenseTracker
 
 Xác định yêu cầu: 
 
