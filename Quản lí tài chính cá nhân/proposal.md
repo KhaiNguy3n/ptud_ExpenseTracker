@@ -43,17 +43,11 @@ Liệt kê các giao diện web (.html) cần thiết kế:
 
 Giao diện
 
-‘![A screenshot of a login form
+![image](pic1.png)
 
-AI-generated content may be incorrect.](pic1.png)
+![image](pic2.png)
 
-![A screenshot of a computer
-
-AI-generated content may be incorrect.](Apic2.png)
-
-![A screenshot of a computer
-
-AI-generated content may be incorrect.](pic3.png)
+![image](pic3.png)
 
 
 Kế hoạch thực hiện:
